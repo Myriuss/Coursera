@@ -11,7 +11,7 @@ public class Customer {
         this.address = address;
     }
     public String getName(){
-        return this.name; //retourne le nom d'un clien
+        return this.name; //retourne le nom d'un client
     }
     public  String getAddress(){
         return  this.address;
